@@ -225,10 +225,10 @@ and under `Exceptions` add 1 rule: `╔╣`
 ![Settings][settings]
 
 ## Examples
-<img src="https://raw.githubusercontent.com/Cleveroad/qwe/master/screenshots/screenshot-1.png" height="500">  <img src="https://raw.githubusercontent.com/Cleveroad/qwe/master/screenshots/screenshot-2.png" height="500">  <img src="https://raw.githubusercontent.com/Cleveroad/qwe/master/screenshots/screenshot-3.png" height="500">
+<img src="https://raw.githubusercontent.com/NikitaAmelinCR/qwe/master/screenshots/screenshot-1.png" height="500">  <img src="https://raw.githubusercontent.com/NikitaAmelinCR/qwe/master/screenshots/screenshot-2.png" height="500">  <img src="https://raw.githubusercontent.com/NikitaAmelinCR/qwe/master/screenshots/screenshot-3.png" height="500">
 
-<img src="https://raw.githubusercontent.com/Cleveroad/qwe/master/screenshots/screenshot-4.png" height="500">  <img src="https://raw.githubusercontent.com/Cleveroad/qwe/master/screenshots/screenshot-5.png" height="500">  <img src="https://raw.githubusercontent.com/Cleveroad/qwe/master/screenshots/screenshot-6.png" height="500">
-<img src="https://raw.githubusercontent.com/Cleveroad/qwe/master/screenshots/screenshot-web.png" height="500">
+<img src="https://raw.githubusercontent.com/NikitaAmelinCR/qwe/master/screenshots/screenshot-4.png" height="500">  <img src="https://raw.githubusercontent.com/NikitaAmelinCR/qwe/master/screenshots/screenshot-5.png" height="500">  <img src="https://raw.githubusercontent.com/NikitaAmelinCR/qwe/master/screenshots/screenshot-6.png" height="500">
+<img src="https://raw.githubusercontent.com/NikitaAmelinCR/qwe/master/screenshots/screenshot-web.png" height="500">
 
-[show_body]: https://raw.githubusercontent.com/Cleveroad/cr_logger/master/screenshots/http-logs-example.gif
-[settings]: https://raw.githubusercontent.com/Cleveroad/cr_logger/master/screenshots/settings-screenshot.png
+[show_body]: https://raw.githubusercontent.com/NikitaAmelinCR/qwe/master/screenshots/http-logs-example.gif
+[settings]: https://raw.githubusercontent.com/NikitaAmelinCR/qwe/master/screenshots/settings-screenshot.png
